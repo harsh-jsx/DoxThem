@@ -7,6 +7,7 @@ import { Loader } from "lucide-react";
 import { useEffect } from 'react';
 import { Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import './index.css'
 import { Toaster } from 'react-hot-toast';
 
 function App() {
